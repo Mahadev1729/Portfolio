@@ -1,0 +1,40 @@
+{
+    "glyphs": {
+        "M": {
+            "ha": 833,
+            "x_min": 77,
+            "x_max": 755,
+            "o": "m 755 0 l 583 0 l 583 621 l 397 0 l 233 0 l 46 621 l 46 0 l 77 0 l 77 692 l 250 692 l 437 71 l 623 692 l 755 692 l 755 0 z"
+        },
+        "A": {
+            "ha": 667,
+            "x_min": 14,
+            "x_max": 654,
+            "o": "m 654 0 l 445 0 l 445 115 l 238 115 l 238 0 l 14 0 l 256 692 l 427 692 l 654 0 z m 423 692 l 341 229 l 341 229 l 259 692 l 423 692 z"
+        }
+    },
+    "familyName": "Helvetiker",
+    "ascender": 750,
+    "descender": -250,
+    "underlinePosition": -100,
+    "underlineThickness": 50,
+    "boundingBox": {
+        "yMin": -250,
+        "xMin": -166,
+        "yMax": 750,
+        "xMax": 1000
+    },
+    "resolution": 1000,
+    "original_font_information": {
+        "format": 0,
+        "copyright": "",
+        "fontFamily": "Helvetiker",
+        "fontSubfamily": "Regular",
+        "uniqueID": "",
+        "fullName": "Helvetiker Regular",
+        "version": "",
+        "postScriptName": "Helvetiker-Regular"
+    },
+    "cssFontWeight": "normal",
+    "cssFontStyle": "normal"
+}

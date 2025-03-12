@@ -1,6 +1,6 @@
 
 import Navbar from './components/Navbar';
-// import Hero from './components/Hero';
+import Hero from './components/Hero';
 // import Education from './components/Education';
 // import Skills from './components/Skills';
 // import Projects from './components/Projects';
@@ -14,7 +14,8 @@ function App() {
     <div className="min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 text-white relative">
       <div className="relative z-10">
         <Navbar />
-        {/* <Hero />
+        <Hero />
+        {/* 
         <Education />
         <Skills />
         <Projects />
