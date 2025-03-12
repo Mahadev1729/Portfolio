@@ -1,6 +1,6 @@
 
 import { Github, Linkedin, Mail, ChevronDown } from 'lucide-react';
-
+import myimage from '../assets/myimage'
 export default function Hero() {
   return (
     <section id="about" className="min-h-screen flex items-center justify-center relative px-4 pt-16">
@@ -47,7 +47,7 @@ export default function Hero() {
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full blur-3xl opacity-20 animate-pulse"></div>
             <img
-              src="https://images.unsplash.com/photo-1573496799652-408c2ac9fe98"
+              src={myimage}
               alt="Professional portrait"
               className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover mx-auto border-4 border-gray-800/50 shadow-2xl transform hover:scale-105 transition-transform duration-300"
             />
